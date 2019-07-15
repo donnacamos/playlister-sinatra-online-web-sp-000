@@ -1,0 +1,1 @@
+SongGenre < ActiveRecord::Base 
